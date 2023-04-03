@@ -5,7 +5,7 @@ do
     hosts="$hosts$arg:8,"
 done
 
-echo "Number of hosts: $nhost"
+echo "Number of processes: $nhost"
 echo "Host list: $hosts"
 
 
